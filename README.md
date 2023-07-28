@@ -16,6 +16,7 @@ This project was built with SOLID Architecture and clean code at the forefront o
 - Sort timetables by Timetable Tags and Filters
 - Sort timetables by Waitlist and RateMyProf features
 
+![UofT Smart Timetable Generator Picture](https://github.com/jeffzhan/UofT-Smart-Timetable-Generator/assets/55262817/8a3d2526-86ae-4e1c-95f5-a291d870e18d)
 
 ## Technical Details
 
