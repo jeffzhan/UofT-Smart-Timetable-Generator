@@ -1,11 +1,23 @@
-# CSC207 Project - Group 95
+# UofT Smart Timetable Geneator
 
-#### Group Members: Tushar, John, Zeeshan, Mayushan, Arsal, Wahhab, Maroosh, Jeffery
-#### Project: UofT Timetable Generator
+#### The Team: Tushar, John, Zeeshan, Mayushan, Arsal, Wahhab, Maroosh, Jeffery
 
-About our Project: The program allows users to get auto-generated timetables based on their inputted Arts & Science courses. The user should be given the option to filter/prioritize by certain traits and tags  (e.g. by preferred day, time, professor ratings, and course-density) for the timetable options.
+About our project: The program allows users to have timetables generated for them, conflict-free, based on their inputted Arts & Science courses. The user has the option to filter/prioritize the resulting timetable pool by certain traits and tags  (e.g. by preferred day, time, professor ratings, and course-density) for the timetable options.
 
-## Project Details
+This project was built with SOLID Architecture and clean code at the forefront of our development process in order to get experience with such practices and ensure a stable, scalable, and modular application.
+
+## Features
+- Search feature equipped with autocomplete for all UofT Arts & Science Courses based on selected year and semester
+- Timetable Persistence to save preferred timetables
+- Visualization of timetables and tags/filters through UI
+- Generation of timetables based on input courses
+- Access to the Arts & Science API to access courses
+- Access to the RateMyProf API to access professor ratings
+- Sort timetables by Timetable Tags and Filters
+- Sort timetables by Waitlist and RateMyProf features
+
+
+## Technical Details
 
 - **Entities**
     - **Course.java**: Data Class that stores the information for a given course.
@@ -48,15 +60,6 @@ About our Project: The program allows users to get auto-generated timetables bas
     - **AppController.java**
 
 
-## Features
-- Search feature equipped with autocomplete for all UofT Arts & Science Courses based on selected year and semester
-- Timetable Persistence to save preferred timetables
-- Visualization of timetables and tags/filters through UI
-- Generation of timetables based on input courses
-- Access to the Arts & Science API to access courses
-- Access to the RateMyProf API to access professor ratings
-- Sort timetables by Timetable Tags and Filters
-- Sort timetables by Waitlist and RateMyProf features
 
 ## How to run
 **Terminal**
