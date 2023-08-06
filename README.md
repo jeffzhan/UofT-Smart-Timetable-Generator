@@ -1,4 +1,4 @@
-# UofT Smart Timetable Geneator
+# UofT Smart Timetable Generator
 
 #### The Team: Tushar, John, Zeeshan, Mayushan, Arsal, Wahhab, Maroosh, Jeffery
 
